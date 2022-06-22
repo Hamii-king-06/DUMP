@@ -10,7 +10,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from DUMP import menu
+    from EXTRACTOR64 import menu
 
     menu()
 
