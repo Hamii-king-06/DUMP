@@ -1,16 +1,19 @@
 # DUMP
 
 
-NOW RUN 
+# NOW RUN 
 
-64 32 BOTH WORKING 
+- `64 32 BOTH WORKING `
 
-#FILE_MAKING_TOOL
+# FILE_MAKING_TOOL
 
-rm -rf DUMP
+- `rm -rf DUMP`
 
-git clone https://github.com/Hamii-king-06/DUMP.git
+- `git clone https://github.com/Hamii-king-06/DUMP.git`
 
-cd DUMP
+- `cd DUMP`
 
-python DUMP.py
+- `python DUMP.py`
+
+
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-HAMII-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+994401314689)
