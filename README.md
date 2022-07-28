@@ -1,5 +1,10 @@
 # DUMP
  [Screenshot_20220727-135222.png]
+ 
+
+![Screenshot_20220727-135222.png](https://user-images.githubusercontent.com/Screenshot_20220727-135222.png)
+
+ 
 
 # NOW RUN 
 
