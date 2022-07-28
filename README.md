@@ -1,5 +1,5 @@
 # DUMP
-
+ [! Screenshot_20220727-135222.png]
 
 # NOW RUN 
 
@@ -16,4 +16,4 @@
 - `python DUMP.py`
 
 
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-HAMII-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+994401314689)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-HAMII-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+994401314689)Screenshot_20220727-135222.png
