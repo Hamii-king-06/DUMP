@@ -35,6 +35,8 @@
 
 - `cd DUMP`
 
+- `git pull`
+
 - `python DUMP.py`
 
 
