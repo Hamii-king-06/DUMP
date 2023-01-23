@@ -3,7 +3,7 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from DMP64 import login
+    from DM64 import login
     login()
 
 elif bit == '32bit':
